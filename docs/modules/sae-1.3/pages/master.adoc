@@ -60,7 +60,7 @@ La VM doit permettre de :
 
 [#contraintes]
 --
-La VM doit avoir une taille mémoire inférieure à `x Go
+La VM doit avoir une taille mémoire inférieure à `x` Go
 --
 
 === icon:book[] Livrables
