@@ -8,12 +8,12 @@ version: '1.0'
 # display_version: α
 
 # https://docs.antora.org/antora/2.3/component-title/
-title: BUT Informatique Blagnac
+title: BUT1 Informatique Blagnac
 
 # https://docs.antora.org/antora/2.3/component-start-page/
 start_page: ROOT:master.adoc
 
 # https://docplayer.fr/169511571-Asciidoc-asciidoctor-antora.html
-nav:
-- modules/ROOT/nav.adoc
+# nav:
+# - modules/ROOT/nav.adoc
 
