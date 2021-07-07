@@ -116,7 +116,7 @@ NOTE: Assistance pendant les {heures-sae}h PJT
 
 === Phases
 
-[#phase]
+[#phases]
 --
 1. Installation de l’OS                                                                        
 - L’OS est imposé : UNIX. Le choix de la distribution est laissé à l’initiative du groupe; doit être argumentée
