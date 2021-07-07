@@ -1,0 +1,19 @@
+= Bachelor Universitaire de Technologie 
+:website: https://jmbruel.github.io/but1
+:baseURL: https://github.com/jmbruel/but1
+// Specific to GitHub
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+//------------------------------------ Badges --------
+image:{baseURL}/actions/workflows/main.yml/badge.svg[Deployed] image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
+//------------------------------------ Badges --------
+
+CAUTION: Site under construction!! 
+
+This is the material for BUT1 description...
