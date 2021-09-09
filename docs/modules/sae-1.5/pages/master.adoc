@@ -3,7 +3,7 @@
 :year: 2021-2022
 :heures-sae: 12
 = SAÉ {num-sae}: {mytitle}
-:icons: font
+:icons: 
 ifndef::backend-pdf[include::ROOT:page$definitions.adoc[]]
 // ------------ For individual PDF ouputs -------------
 ifdef::backend-pdf[]
