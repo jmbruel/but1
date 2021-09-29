@@ -85,9 +85,7 @@ Les besoins du client doivent être réel.
 ====
 - {ep} (p)
 - {jmb} (p) image:jmb.jpg[width=10%, pdfwidth=10%] 
-- {pso} (p)
 - {lc}  (v)
-- {tg} (v)
 +
 NOTE: Assistance pendant les {heures-sae}h PJT
 +
