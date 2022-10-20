@@ -1,2 +1,5 @@
 build
 build/
+docs/.DS_Store
+docs/modules/.DS_Store
+docs/modules/sae-1.5/.DS_Store
