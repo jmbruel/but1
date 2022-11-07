@@ -1,6 +1,6 @@
 = Bachelor Universitaire de Technologie Year 1 -- IUT de Blagnac
 Jean-Michel Bruel <bruel@irit.fr>
-v1.0, {localdate}
+v1.1, {localdate}
 :myinitials: JMB
 :icons: font
 :xrefstyle: short
